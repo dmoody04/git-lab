@@ -73,3 +73,52 @@ Untracked files:
 
 	answers.md
 
+Answer_6
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+	new file:   answers.md
+
+Answer_7
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Answer_8
+commit 21a2d3e16a494a8ed9c62b906a2fcdc85740ad7b
+Author: David Moody <dm966821@ohio.edu>
+Date:   Wed Jan 25 16:30:38 2023 -0500
+
+    Initial commit
+Answer_9
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Answer_10
+README.md
+Answer_11
+Everything up-to-date
+Answer_12
+Yes
+Answer_13
+.
+..
+answers.md
+git-lab-2
+Labs
